@@ -25,4 +25,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/a/VOQd6Nh' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://i.imgur.com/jc8qqnv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
